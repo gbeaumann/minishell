@@ -1,0 +1,3 @@
+getcwd : path to current directory
+chdir : change directory
+add_history : historique de readline
